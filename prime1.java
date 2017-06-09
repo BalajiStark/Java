@@ -1,5 +1,5 @@
 import java.util.*;
-public class JavaApplication13{
+public class prime1{
 
     public static void main(String[] args) {
 
